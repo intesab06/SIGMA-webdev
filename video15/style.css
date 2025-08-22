@@ -1,0 +1,15 @@
+  body {
+            text-align: center;
+            background-color: black;
+            color: rgb(107, 94, 220);
+            font-family: Arial, sans-serif;
+        }
+        div{
+            text-align: center;
+            font-size: 18px;
+            color: green;
+        }
+p{
+            text-align: center;
+            color: salmon;
+}
